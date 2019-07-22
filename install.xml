@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<concrete5-cif version="1.0">
+    <singlepages>
+        <page name="My Gift Cards" path="/account/giftcards" filename="/account/giftcards.php" pagetype=""
+              description="" package="community_store_buy_gift_card"
+        />
+        <page name="Gift Cards" path="/dashboard/store/giftcards" filename="/dashboard/store/giftcards.php" pagetype=""
+              description="" package="community_store_buy_gift_card"
+        />
+    </singlepages>
+</concrete5-cif>
